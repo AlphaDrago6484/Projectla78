@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+img{
+    width: 250px;
+    height: 300px;
+}
+html{
+    scroll-behavior: smooth;
+}
